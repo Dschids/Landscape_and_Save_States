@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Landscape and Save States</string>
+    <string name="hint">Enter Something</string>
+    <string name="btn1">Whatcha Enter?</string>
+
+    <string name="getClickin">Get Clickin</string>
+    <string name="numClick">Number of Clicks:</string>
+    <string name="clickResponse">You gonna click it or what?</string>
+    <string name="btn2">Click It</string>
+</resources>
